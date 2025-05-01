@@ -261,7 +261,7 @@ img {
     border-radius: .25rem;
   }
   .nav__link:hover {
-    background-color: var(--first-color);
+    background-color: var(--hover-color);
   }
   .active {
     background-color: var(--first-color);
