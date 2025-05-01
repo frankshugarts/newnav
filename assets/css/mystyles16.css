@@ -261,11 +261,11 @@ img {
     border-radius: .25rem;
   }
   .nav__link:hover {
-    background-color: var(--white-color);
+    background-color: var(--first-color);
   }
   .active {
-    background-color: var(--white-color);
-    color: var(--white-color);
+    background-color: var(--first-color);
+    color: var(--first-color);
   }
 }
 
