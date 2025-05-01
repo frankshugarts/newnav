@@ -265,7 +265,7 @@ img {
     background-color: var(--first-color);
   }
   .active {
-    background-color: var(--first-color);
+    background-color: var(--darkt-color);
     color: var(--first-color);
   }
 }
