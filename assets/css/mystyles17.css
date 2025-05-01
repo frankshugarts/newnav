@@ -169,6 +169,7 @@ img {
 
 .nav__item {
   margin: 2.5rem 0;
+  color: var(--first-color);
 }
 
 .nav__link {
