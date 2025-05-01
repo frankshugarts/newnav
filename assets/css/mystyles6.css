@@ -264,7 +264,7 @@ img {
     background-color: var(--hover-color);
   }
   .active {
-    background-color: var(--first-color);
+    background-color: var(--hover-color);
     color: var(--white-color);
   }
 }
